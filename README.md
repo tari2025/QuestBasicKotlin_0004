@@ -1,5 +1,7 @@
 # QuestBasicKotlin_0004
+<br>
 latihan kotlin
+<br>
 <img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/85df6050-2db3-47d7-8581-b25ea3cb10d1" />
 
 <br>
@@ -51,6 +53,7 @@ dapat digunakan baik sebagai pernyataan maupun ekspresi
 <img width="568" height="222" alt="{577EE742-A0E2-48A8-AEC9-A8C2C1868C92}" src="https://github.com/user-attachments/assets/daec2f53-ce67-48cd-ab8b-9293958299e4" />
 <br>
 contoh 
+<br>
 <img width="573" height="233" alt="{42881146-2B4B-42F3-A66C-9D4213E6EA7D}" src="https://github.com/user-attachments/assets/57755234-2bf2-4d43-b39e-fee6b8e34b20" />
 <br>
 Ranges
@@ -62,19 +65,22 @@ Loops <br>
 Dua struktur perulangan yang paling umum dalam pemrograman adalah for dan while.
 Gunakan for untuk mengulang serangkaian nilai dan melakukan suatu tindakan. Gunakan
 while untuk melanjutkan tindakan hingga kondisi tertentu terpenuhi.
+<br>
 contoh for <br>
+<br>
 <img width="277" height="245" alt="{B16EBE60-DE66-46D3-AA46-1229F5AFEA5B}" src="https://github.com/user-attachments/assets/bfb75adb-fff9-453b-83bc-849c34c3b678" />
 <br>
 contoh while <br>
 <img width="222" height="241" alt="{5A3FCFC2-0141-43BF-80CC-9337083337E6}" src="https://github.com/user-attachments/assets/91752efc-1c49-4e77-bbb5-4db76bc91d2f" />
 <br>
-contoh fucntion 
+contoh fucntion <br>
+<br>
 Jika sebuah fungsi tidak mengembalikan sesuatu yang berguna, tipe return dan kata kunci
 return dapat dihilangkan. Pelajari lebih lanjut tentang hal ini di Fungsi tanpa
 pengembalian
 <br>
 
-Named arguments
+Named arguments <br>
 Untuk kode yang ringkas, ketika memanggil fungsi, Anda tidak perlu menyertakan nama
 parameter. Namun, menyertakan nama parameter akan membuat kode Anda lebih
 mudah dibaca. Ini disebut menggunakan argumen bernama. Jika Anda menyertakan
@@ -83,13 +89,13 @@ nama parameter, maka Anda dapat menulis parameter dalam urutan apa pun. <br>
 <br>
 <img width="366" height="302" alt="{83FD5A24-685F-48F8-9BF3-26378861E6C6}" src="https://github.com/user-attachments/assets/ff2c109c-f747-4ed8-96bd-8f7a67e736e2" />
 <br>
-Default parameter values
+Default parameter values <br>
 Anda dapat menentukan nilai default untuk parameter fungsi Anda. Parameter apa pun
 dengan nilai default dapat dihilangkan saat memanggil fungsi Anda. Untuk
 mendeklarasikan nilai default, gunakan operator penugasan = setelah tipe: <br>
 <img width="460" height="280" alt="{C2C15E17-F1BA-4AA8-83E7-10F50259F9C5}" src="https://github.com/user-attachments/assets/313ae5b6-4986-4c81-911b-755d70c64f20" />
 <br>
-Functions without return
+Functions without return <br>
 Jika fungsi Anda tidak mengembalikan nilai yang berguna, maka tipe kembaliannya
 adalah Unit. Unit adalah tipe dengan hanya satu nilai - Unit. Anda tidak perlu
 mendeklarasikan bahwa Unit dikembalikan secara eksplisit dalam badan fungsi Anda. Ini
@@ -98,11 +104,13 @@ pengembalian: <br>
 
 <img width="308" height="289" alt="{08F06792-C21B-42EE-AAA8-E75BFA58D98A}" src="https://github.com/user-attachments/assets/00017248-0de0-4158-92d3-d0c50c35bf50" />
 <br>
+<br>
 Lambda expressions <br>
 Kotlin memungkinkan Anda untuk menulis kode yang lebih ringkas untuk fungsi-fungsi
 dengan menggunakan ekspresi lambda.
 Sebagai contoh, fungsi uppercaseString() berikut ini: <br>
 <img width="420" height="152" alt="{28588996-A13D-40BF-ADC2-57635F14E16F}" src="https://github.com/user-attachments/assets/d1c625b2-0fa3-4b11-9c8d-2ac543b649dd" />
+<br>
 <br>
 Class
 Kotlin mendukung pemrograman berorientasi objek dengan kelas dan objek. Objek
@@ -114,6 +122,7 @@ perlu mendeklarasikan karakteristik ini setiap saat. <br>
 <br>
 properties <br>
 <img width="395" height="256" alt="{16EF869E-5C2F-4D2A-94EF-4FC456182136}" src="https://github.com/user-attachments/assets/efd4e624-fe5c-4039-80f2-2a9346dee0c7" />
+<br>
 <br>
 Create instance <br>
 <img width="439" height="279" alt="{DB7063ED-A8B1-4D55-9A12-EF7D2E354D3B}" src="https://github.com/user-attachments/assets/ab7001c4-56db-461e-8e37-38fd5cba73d5" />
@@ -163,10 +172,12 @@ kesalahan dalam kode Anda.
 <br>
 <img width="621" height="222" alt="{EAAFAFB4-7D1D-4468-9C0F-20D40EC06363}" src="https://github.com/user-attachments/assets/8666e7fe-ff1f-46b3-8fb2-da56a7b26e19" />
 <br>
-Use Elvis operator
+Use Elvis operator <br>
 Anda dapat memberikan nilai default untuk dikembalikan jika nilai nol terdeteksi
 dengan menggunakan operator Elvis ?: <br>
-
+Pada contoh berikut, nullString adalah null sehingga pemanggilan yang aman untuk
+mengakses properti panjang mengembalikan nilai null. Hasilnya, operator Elvis
+mengembalikan nilai 0
 
 <br>
 <img width="394" height="237" alt="{E2B8F6E5-6F04-4EFC-82CC-9732A46EDF34}" src="https://github.com/user-attachments/assets/ae63a6e5-b0f1-4219-85f0-4405e5e0216f" />
