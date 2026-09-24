@@ -98,6 +98,13 @@ properties
 Create instance
 <img width="439" height="279" alt="{DB7063ED-A8B1-4D55-9A12-EF7D2E354D3B}" src="https://github.com/user-attachments/assets/ab7001c4-56db-461e-8e37-38fd5cba73d5" />
 
+Access properties
+Untuk mengakses properti dari sebuah instance, tulis nama properti setelah nama
+instance yang ditambahkan dengan titik . :
+<img width="420" height="278" alt="{13A28E6B-84FD-4236-9B71-43DBA0672EB8}" src="https://github.com/user-attachments/assets/d2bca6f6-746e-4854-9d77-3cf44079d504" />
+
+
+
 
 
 
