@@ -12,6 +12,23 @@ Set
 Sementara List diurutkan dan memungkinkan item duplikat, set tidak diurutkan dan hanya
 menyimpan item unik.
 <img width="744" height="248" alt="{9F472579-65E4-47E9-B6AA-EDEB0C2008C0}" src="https://github.com/user-attachments/assets/f33afa42-d106-405c-bffb-fc6810320299" />
+Map
+Maps menyimpan item data sebagai pasangan key-value. 
+
+<img width="784" height="322" alt="{D5C9FEC1-4184-46C1-AA49-FE63CE8B4C65}" src="https://github.com/user-attachments/assets/bf484abd-15c9-4f24-a02c-1f214530d8c5" />
+Untuk mengakses nilai pada map, gunakan operator akses yang diindeks [] dengan ‘key’nya:
+
+<img width="734" height="308" alt="{69521865-6BE7-4098-BC21-0982159C3850}" src="https://github.com/user-attachments/assets/2be2edb7-cac0-4370-b12b-ee6e43bc2623" />
+
+Conditional expressions
+Kotlin menyediakan if dan when untuk memeriksa ekspresi bersyarat.
+If
+Untuk menggunakan if, tambahkan ekspresi kondisional di dalam tanda kurung () dan
+tindakan yang akan dilakukan jika hasilnya benar di dalam tanda kurung kurawal {}:
+<img width="305" height="282" alt="{EBAC3458-5E99-492B-A4AC-C1EA25BB2E57}" src="https://github.com/user-attachments/assets/97c20abf-f78a-42d9-ac33-3b8e7998061e" />
+When
+Gunakan when ketika Anda memiliki ekspresi bersyarat dengan beberapa cabang. when
+dapat digunakan baik sebagai pernyataan maupun ekspresi
 
 
 
