@@ -29,6 +29,16 @@ tindakan yang akan dilakukan jika hasilnya benar di dalam tanda kurung kurawal {
 When
 Gunakan when ketika Anda memiliki ekspresi bersyarat dengan beberapa cabang. when
 dapat digunakan baik sebagai pernyataan maupun ekspresi
+<img width="568" height="222" alt="{577EE742-A0E2-48A8-AEC9-A8C2C1868C92}" src="https://github.com/user-attachments/assets/daec2f53-ce67-48cd-ab8b-9293958299e4" />
+
+contoh 
+<img width="573" height="233" alt="{42881146-2B4B-42F3-A66C-9D4213E6EA7D}" src="https://github.com/user-attachments/assets/57755234-2bf2-4d43-b39e-fee6b8e34b20" />
+
+Ranges
+Sebelum membahas tentang perulangan, ada baiknya kita mengetahui cara membuat
+rentang untuk perulangan.
+<img width="311" height="265" alt="{4F2FB001-6670-438C-8CB0-0F006441FCAD}" src="https://github.com/user-attachments/assets/b8ef4dbe-9515-479e-bd7c-2b401b2c39e6" />
+
 
 
 
