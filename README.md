@@ -104,7 +104,38 @@ instance yang ditambahkan dengan titik . :
 <img width="420" height="278" alt="{13A28E6B-84FD-4236-9B71-43DBA0672EB8}" src="https://github.com/user-attachments/assets/d2bca6f6-746e-4854-9d77-3cf44079d504" />
 
 
+Member functions
+Selain mendeklarasikan properti sebagai bagian dari karakteristik objek, Anda juga dapat
+mendefinisikan perilaku objek dengan fungsi anggota.
 
+
+<img width="459" height="260" alt="{EDB76CDD-C23F-46CF-B09B-61654B12695F}" src="https://github.com/user-attachments/assets/4133a8b2-140c-4e9d-9542-be9c3c21ebe7" />
+
+Data classes
+Kotlin memiliki kelas data yang sangat berguna untuk menyimpan data.
+Print as string
+<img width="408" height="267" alt="{06D44AF5-0AB6-4002-AB80-2315BB5AE5A4}" src="https://github.com/user-attachments/assets/f19e1154-edf3-4c60-a375-bcf90094dcb7" />
+
+Compare instances
+
+
+<img width="457" height="283" alt="{CFE53D76-94B2-4ED5-857F-DC16933335CF}" src="https://github.com/user-attachments/assets/8ee0b29e-45c1-472c-b08f-f77719adcb9d" />
+
+Copy instance
+Untuk membuat salinan persis dari instance kelas data, panggil fungsi .copy() pada
+instance.
+
+<img width="455" height="266" alt="{EE69FF36-C49C-4A94-83C7-908340FC8268}" src="https://github.com/user-attachments/assets/3f879773-8315-4ee7-85ca-6407e4af9d84" />
+
+Nullable types
+<img width="638" height="264" alt="{E7639035-7A06-4F4C-BE92-C27EFDC93F3A}" src="https://github.com/user-attachments/assets/66c95de6-895d-4d7f-9a1a-8a20e735d2a5" />
+
+Check for null values
+<img width="464" height="246" alt="{9A4C34B3-5C62-457F-8859-44832F988570}" src="https://github.com/user-attachments/assets/979e84f4-4b26-40c3-9afa-d4e9751a1d39" />
+
+Use safe calls
+
+Use Elvis operator
 
 
 
