@@ -73,7 +73,9 @@ contoh for <br>
 contoh while <br>
 <img width="222" height="241" alt="{5A3FCFC2-0141-43BF-80CC-9337083337E6}" src="https://github.com/user-attachments/assets/91752efc-1c49-4e77-bbb5-4db76bc91d2f" />
 <br>
-contoh fucntion <br>
+contoh function <br>
+<img width="554" height="234" alt="{5FB5137F-A3BC-48CF-8610-D45E24C01176}" src="https://github.com/user-attachments/assets/47a1022f-7bf3-4a5d-b2c7-d13e85f0fe78" />
+
 <br>
 Jika sebuah fungsi tidak mengembalikan sesuatu yang berguna, tipe return dan kata kunci
 return dapat dihilangkan. Pelajari lebih lanjut tentang hal ini di Fungsi tanpa
