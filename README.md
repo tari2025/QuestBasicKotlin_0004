@@ -1,17 +1,29 @@
 # QuestBasicKotlin_0004
 latihan kotlin
 <img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/85df6050-2db3-47d7-8581-b25ea3cb10d1" />
+
+
 #String templates
 Akan sangat berguna untuk mengetahui cara mencetak isi variabel ke output standar. 
+
 <img width="345" height="282" alt="{0730DD03-5B8C-4FA2-A49C-D21FB13286C1}" src="https://github.com/user-attachments/assets/f51ccc56-2acd-4d4c-8ed6-1d42036bac3a" />
+
+
 #Coding List Kotlin
 List menyimpan item sesuai urutan penambahannya, dan memungkinkan adanya item
 duplikat.
+
 <img width="708" height="268" alt="{ABB9B21B-79CB-4303-A0D9-1CBFF4D93B0F}" src="https://github.com/user-attachments/assets/3d8f2b7c-4d94-4c36-9237-64e0127a11e6" />
+
+
 Set
 Sementara List diurutkan dan memungkinkan item duplikat, set tidak diurutkan dan hanya
 menyimpan item unik.
+
+
 <img width="744" height="248" alt="{9F472579-65E4-47E9-B6AA-EDEB0C2008C0}" src="https://github.com/user-attachments/assets/f33afa42-d106-405c-bffb-fc6810320299" />
+
+
 Map
 Maps menyimpan item data sebagai pasangan key-value. 
 
@@ -128,17 +140,28 @@ instance.
 <img width="455" height="266" alt="{EE69FF36-C49C-4A94-83C7-908340FC8268}" src="https://github.com/user-attachments/assets/3f879773-8315-4ee7-85ca-6407e4af9d84" />
 
 Nullable types
+
 <img width="638" height="264" alt="{E7639035-7A06-4F4C-BE92-C27EFDC93F3A}" src="https://github.com/user-attachments/assets/66c95de6-895d-4d7f-9a1a-8a20e735d2a5" />
 
 Check for null values
+
 <img width="464" height="246" alt="{9A4C34B3-5C62-457F-8859-44832F988570}" src="https://github.com/user-attachments/assets/979e84f4-4b26-40c3-9afa-d4e9751a1d39" />
 
 Use safe calls
+Untuk mengakses properti objek dengan aman yang mungkin berisi nilai null, gunakan
+operator safe call ?... Operator safe call mengembalikan nilai null jika properti objek
+bernilai null. Hal ini berguna jika Anda ingin menghindari adanya nilai null yang memicu
+kesalahan dalam kode Anda.
+
+<img width="621" height="222" alt="{EAAFAFB4-7D1D-4468-9C0F-20D40EC06363}" src="https://github.com/user-attachments/assets/8666e7fe-ff1f-46b3-8fb2-da56a7b26e19" />
 
 Use Elvis operator
+Anda dapat memberikan nilai default untuk dikembalikan jika nilai nol terdeteksi
+dengan menggunakan operator Elvis ?:
 
 
 
+<img width="394" height="237" alt="{E2B8F6E5-6F04-4EFC-82CC-9732A46EDF34}" src="https://github.com/user-attachments/assets/ae63a6e5-b0f1-4219-85f0-4405e5e0216f" />
 
 
 
